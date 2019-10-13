@@ -903,5 +903,22 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Mustafiz Kaifee",
+    "company": "Student",
+    "skills": [
+      "Python",
+      "Java"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS",
+      "Express",
+      "MongoDB",
+    ],
+    "city": "Jamshedpur",
+    "github": "Mustafiz04",
+    "email": "kaifee000@gmail.com"
   }
 ]
